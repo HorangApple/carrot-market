@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           <span className="font-semibold">$10</span>
         </div>
         <button
-          className="mt-5 bg-blue-500 text-white p-3 text-center rounded-xl w-2/4 mx-auto
+          className="mt-5 bg-blue-500 text-white p-3 text-center rounded-xl w-2/4 mx-auto block
         hover:bg-teal-500 hover:text-black
           active:bg-yellow-500 focus:bg-red-500
         "
